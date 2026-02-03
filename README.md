@@ -1,1 +1,0 @@
-# solov2_pytorch
